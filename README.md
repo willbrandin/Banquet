@@ -1,2 +1,3 @@
 # Banquet
-Simple redux for simple projects
+
+A description of this package.
