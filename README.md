@@ -1,2 +1,2 @@
 # Banquet
-Simple redux for simple projects.
+Simple redux for simple projects
